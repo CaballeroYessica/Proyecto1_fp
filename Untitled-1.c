@@ -1,5 +1,6 @@
 #include <stdio.h>
 #include <string.h>
+//no entiendo nada
 
 int main(){
     int num, t;
