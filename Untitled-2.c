@@ -3,6 +3,8 @@
 #include<math.h>
 #include<string.h>
 
+//No entiendo unu. Espero que con esto ya quede.
+
 int main(){
     int num = 0, pot =0;
     char binario[100];
